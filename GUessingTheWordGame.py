@@ -21,7 +21,8 @@ words_list = [
                 'sync', 'programmer', 'armchair',
                 'sofa', 'coffee', 'communication',
                 'friendship', 'teacher','doctor',
-                'firefighter','engineer']
+                'firefighter','engineer','huddy', 
+                'box', 'mousepod', 'organization']
 
 time.sleep(1)
 chosen_word = random.choice(words_list)
